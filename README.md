@@ -1,9 +1,11 @@
 Space Shooter
 ======================
 
-Java final project
+## How to use it:
 
-Execute by typeing "java MainMenu"
+Executed by
+
+$ java MainMenu
 
 License
 ====================================
