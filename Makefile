@@ -5,3 +5,4 @@ program:
 clean:
 	rm bin/*.class
 	rm bin/Records.txt
+	rm *.jar

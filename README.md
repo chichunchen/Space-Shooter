@@ -1,11 +1,18 @@
 Space Shooter
 ======================
 
-## How to use it:
+### Compile:
 
-Executed by:
+    make
 
-    $ java MainMenu
+### Package classes to jar
+	
+	jar cvfm Space-Shooter.jar manifest.mf bin/*.class
+    
+### Execute:
+	
+	java -jar Space-Shooter.jar
+	
 
 ## Some things to say:
 
