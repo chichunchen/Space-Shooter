@@ -3,6 +3,6 @@ program:
 		             src/*.java -d bin 
 
 clean:
+	rm Space-Shooter.jar
 	rm bin/*.class
-	rm bin/Records.txt
-	rm *.jar
+#	rm bin/Records.txt

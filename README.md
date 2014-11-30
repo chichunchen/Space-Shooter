@@ -1,7 +1,7 @@
 Space Shooter
 ======================
 
-### Compile:
+### Compile
 
     make
 
@@ -9,9 +9,17 @@ Space Shooter
 	
 	jar cvfm Space-Shooter.jar manifest.mf bin/*.class
     
-### Execute:
+### Execute
 	
 	java -jar Space-Shooter.jar
+	
+### Uninstall
+	
+	make clean
+	
+### Automatically package classes to jar and run
+
+	bash start.sh
 	
 
 ## Some things to say:
